@@ -10,4 +10,4 @@ var conversation = `${topic}`;
 
 "Hello " ${specialGuest} + "!";
 
-"Let's talk about " ${topic} + "
+"Let's talk about " ${topic} + "!"
